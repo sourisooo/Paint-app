@@ -160,7 +160,7 @@ console.log(pxsize,pixel.style.height);
 
 }
 
-document.addEventListener('click', e => {
+document.addEventListener('mouseover', e => {
 
     let inputValue = document.getElementById('taillegrille').value;
 
